@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+         Linux is the best brother and you cannot do Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
